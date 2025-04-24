@@ -10,6 +10,11 @@ path = 'contracts/driver-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.route-optimization]
+path = 'contracts/route-optimization.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.vehicle-registration]
 path = 'contracts/vehicle-registration.clar'
 clarity_version = 2
