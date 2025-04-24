@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.driver-verification]
+path = 'contracts/driver-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.vehicle-registration]
 path = 'contracts/vehicle-registration.clar'
 clarity_version = 2
